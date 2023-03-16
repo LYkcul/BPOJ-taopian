@@ -1,0 +1,10 @@
+{
+    "name": "bpoj-taopian",
+    "version": "0.0.1",
+    "description": "TaoPian",
+    "main": "index.js",
+    "author": "LYkcul",
+    "license": "AGPL-3.0",
+    "peerDependencies": {
+    }
+  }
